@@ -22,6 +22,8 @@ const SUPPORTED_FORMATS = [
   "image/webp",
   "image/heic",
   "image/svg+xml",
+  "video/quicktime",
+  "video/mp4",
 ]
 
 const SUPPORTED_FORMATS_FILE_EXTENSIONS = [
@@ -31,6 +33,8 @@ const SUPPORTED_FORMATS_FILE_EXTENSIONS = [
   ".webp",
   ".heic",
   ".svg",
+  ".mov",
+  ".mp4",
 ]
 
 export const UploadMediaFormItem = ({
