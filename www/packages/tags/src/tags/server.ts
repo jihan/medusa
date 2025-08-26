@@ -68,6 +68,10 @@ export const server = [
     "path": "https://docs.medusajs.com/resources/how-to-tutorials/tutorials/gift-message"
   },
   {
+    "title": "Generate Invoices",
+    "path": "https://docs.medusajs.com/resources/how-to-tutorials/tutorials/invoice-generator"
+  },
+  {
     "title": "Loyalty Points",
     "path": "https://docs.medusajs.com/resources/how-to-tutorials/tutorials/loyalty-points"
   },
@@ -78,6 +82,10 @@ export const server = [
   {
     "title": "Pre-Orders",
     "path": "https://docs.medusajs.com/resources/how-to-tutorials/tutorials/preorder"
+  },
+  {
+    "title": "Product Builder",
+    "path": "https://docs.medusajs.com/resources/how-to-tutorials/tutorials/product-builder"
   },
   {
     "title": "Product Reviews",
@@ -114,6 +122,10 @@ export const server = [
   {
     "title": "Integrate Mailchimp",
     "path": "https://docs.medusajs.com/resources/integrations/guides/mailchimp"
+  },
+  {
+    "title": "Integrate Payload",
+    "path": "https://docs.medusajs.com/resources/integrations/guides/payload"
   },
   {
     "title": "Integrate Segment",
